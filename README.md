@@ -16,7 +16,7 @@ How to use...
 <h3>
 This app was created to teach and learn. All code used in creating the app is available on GitHub.
 </h3>
-<p>If you need to contact me you can reach out to me through GitHub or visit http://www.popecomputerscience.com/or email me at richard.groeneveld@cobbk12.org 
+<p>If you need to contact me you can reach out to me through https://github.com/groeneveldwoodstock or visit http://www.popecomputerscience.com/ or email me at richard.groeneveld@cobbk12.org 
 </p>
 
 
